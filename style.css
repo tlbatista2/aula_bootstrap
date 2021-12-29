@@ -1,0 +1,46 @@
+body {
+    font-family: 20 px Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 220px;
+    height: 80px;
+}
+
+
+.navbar {
+    background-color: #B2BABB ;
+    
+}
+
+
+.quem-somos {
+    background-color: rgba(0, 0, 0, 0.959);
+    color: white;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.rounded-circle {
+    width: 400px;
+    height: 400px;
+}
+
+.parceiros {
+    background-color: white   ;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.imagem {
+    width: 300px;
+    height: 300px;
+    border: solid 1px;
+}
